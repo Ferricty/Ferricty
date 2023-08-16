@@ -27,7 +27,7 @@ I believe that continuous learning and teaching are essential to personal and pr
 
 # Skills
 
-[![](https://skillicons.dev/icons?i=py,pytorch,django,html,css,js,bootstrap,vscode,git,sqlite,postgres,mysql&perline=4)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=py,pytorch,django,vscode,html,css,js,bootstrap,git,sqlite,postgres,mysql&perline=6)](https://skillicons.dev)
 
 # Contact
 
