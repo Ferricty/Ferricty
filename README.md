@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋
-![banner](https://github.com/Ferricty/Ferricty/assets/95433755/732cb46b-e192-437d-8236-baf3d5facb30)
 
 I'm a Telecommunication Engineer with a deep love by programming and maths. I specialize in delivering practical solutions to real-world problems. With a focus on data science, I have developed a wide range of projects, including:
 
