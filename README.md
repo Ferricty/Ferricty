@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Designing networks, configuring switches with precision,  
-Laying fiber, wires, no room for derision,  
-Spider webs ain't what we envision,  
-We acquire knowledge through documentation, our mission.
+Configure switches with precision,  
+Lay fiber, wires, no derision.  
+Envision a web, no spider's mission,  
+Wisdom gained through documentation.
 
-Next up, we check everything's in place,  
-Internet's missed? Don't worry, it's not a race,  
-You're lucky, my friend, a smile on your face,  
-Sit at your computer, let's dive into cyberspace.
+Check all's in place, no need to haste,  
+Internet missed? Not a race.  
+Lucky you, a smile on your face,  
+Sit, dive into cyberspace, embrace.
 
-Open Elastic, fire up your Asterisk brain,  
-VoIP reborn, it's time to entertain,  
-Conference rooms, call recording, dial plan reign,  
-Our daily work's done, celebrate the gain!
+Open Elastic, fire Asterisk, entertain,  
+VoIP reborn, it's time to gain.  
+Conference, record, dial plan reign,  
+Work's done, celebrate the gain!
