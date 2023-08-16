@@ -43,3 +43,5 @@ I believe that continuous learning and teaching are essential to personal and pr
 # Let's Connect
 
 [![](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg)](https://t.me/@Ferricty)
+[![](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg)](mailto:ferricty@gmail.com)
+[![](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/frank-segui-camacho)
