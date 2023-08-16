@@ -24,11 +24,17 @@ I'm a Telecommunication Engineer with a deep love by programming and maths. I sp
 
 I believe that continuous learning and teaching are essential to personal and professional growth, and I am always eager to learn new technologies and techniques. As a dedicated and motivated individual, I am excited about the opportunity to contribute to a team and tackle challenging problems to drive business success.
 
-# Current Projects
-
 # Skills
 
 [![](https://skillicons.dev/icons?i=py,pytorch,django,vscode,html,css,js,bootstrap,git,sqlite,postgres,mysql&perline=6)](https://skillicons.dev)
 
-# Contact
+# My Stats
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ferricty" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferricty&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+# Let's Connect
