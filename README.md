@@ -38,7 +38,7 @@ I believe that continuous learning and teaching are essential to personal and pr
 <a href="https://github.com/Ferricty/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferricty&layout=compact&bg_color=ffffff00&text_color=0055ff&langs_count=8&card_width=320" />
 </a>
-m
+
 
 # Let's Connect
 
