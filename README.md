@@ -28,6 +28,9 @@ I believe that continuous learning and teaching are essential to personal and pr
 
 [![](https://skillicons.dev/icons?i=py,pytorch,django,vscode,html,css,js,bootstrap,git,sqlite,postgres,mysql&perline=6)](https://skillicons.dev)
 
+![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
 # My Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -38,3 +41,5 @@ I believe that continuous learning and teaching are essential to personal and pr
 </a>
 
 # Let's Connect
+
+[![](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg)](https://t.me/@Ferricty)
