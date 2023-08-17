@@ -1,4 +1,5 @@
-<--## 💻 Desarrollo de software
+<!--
+## 💻 Desarrollo de software
 - Desarrollo de aplicaciones de escritorio
 - Desarrollo de aplicaciones móviles
 - Desarrollo de sitios web
@@ -17,4 +18,5 @@
 ## 💡 Consultoría de tecnología
 - Análisis de necesidades y recomendaciones de tecnología
 - Asesoramiento sobre la adopción de nuevas tecnologías
-- Desarrollo de estrategias de tecnología a largo plazo>
+- Desarrollo de estrategias de tecnología a largo plazo
+-->
